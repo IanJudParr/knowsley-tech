@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/IanJudParr/knowsley-tech/</loc>
+    <loc>https://github.com/IanJudParr/knowsley-tech/public/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/IanJudParr/knowsley-tech/categories/</loc>
+    <loc>https://github.com/IanJudParr/knowsley-tech/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/IanJudParr/knowsley-tech/tags/</loc>
+    <loc>https://github.com/IanJudParr/knowsley-tech/public/tags/</loc>
     <priority>0</priority>
   </url>
   
