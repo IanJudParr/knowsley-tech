@@ -3,7 +3,6 @@ baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Agency"
 theme = "agency"
-publishDir = "/docs"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
